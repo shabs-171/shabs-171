@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Full-Stack Developer |  MERN | Next.js
+  🚀 Full-Stack Developer | Frontend Specialist | MERN | Next.js
 </h3>
 
 <p align="center">
@@ -13,12 +13,8 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897194-6c1b91fd-5c36-4a59-b0fa-7b93a6bfb5a1.gif" width="300">
-</p>
-
 ## 👨‍💻 About Me
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ✨ **Full-Stack Developer** with strong **frontend expertise**  
 🎨 Specialize in **modern UI, animations & UX**  
@@ -27,9 +23,12 @@
 ⚡ Focused on **performance, security & clean architecture**  
 🌱 Continuously learning new tools & best practices  
 
+<br clear="right"/>
+
 ---
 
 ## 🧠 What I Do as a Full-Stack Developer
+<img align="right" width="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 🔹 Design responsive & accessible interfaces  
 🔹 Develop RESTful & scalable APIs  
@@ -37,6 +36,8 @@
 🔹 Optimize database schemas & queries  
 🔹 Integrate third-party services & APIs  
 🔹 Deploy & maintain production applications  
+
+<br clear="right"/>
 
 ---
 
@@ -66,7 +67,6 @@
 ---
 
 ## 🔥 MERN Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 </p>
@@ -87,7 +87,6 @@
 ---
 
 ## 🧠 Fun Fact
-
 > I enjoy architecting **full-stack systems** while crafting **beautiful, smooth user experiences** ✨
 
 ---
