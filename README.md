@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | Frontend Specialist | MERN | Next.js
+  🚀 Full-Stack Developer |  MERN | Next.js
 </h3>
 
 <p align="center">
