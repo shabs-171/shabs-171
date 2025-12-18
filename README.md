@@ -1,14 +1,14 @@
-<!-- TOP WAVE ANIMATION -->
+<!-- TOP ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Shaban%20Ahmed&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  🚀 Frontend & Full-Stack Developer | MERN | Next.js
+  🚀 Full-Stack Developer |  MERN | Next.js
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Engineer;Next.js+Specialist;Clean+UI+%7C+Smooth+UX;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Frontend+Focused+Engineer;MERN+Stack+Specialist;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -18,16 +18,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897194-6c1b91fd-5c36-4a59-b0fa-7b93a6bfb5a1.gif" width="300">
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-✨ Passionate **Frontend & Full-Stack Developer**  
-💻 Crafting **modern, animated, and scalable UIs**  
-⚡ Strong focus on **performance, UX, and clean code**  
-🌱 Constantly learning & improving  
+✨ **Full-Stack Developer** with strong **frontend expertise**  
+🎨 Specialize in **modern UI, animations & UX**  
+⚙️ Build **scalable backend systems & APIs**  
+🗄️ Experienced with **SQL & NoSQL databases**  
+⚡ Focused on **performance, security & clean architecture**  
+🌱 Continuously learning new tools & best practices  
 
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" />
-</p>
+---
+
+## 🧠 What I Do as a Full-Stack Developer
+
+🔹 Design responsive & accessible interfaces  
+🔹 Develop RESTful & scalable APIs  
+🔹 Handle authentication & authorization  
+🔹 Optimize database schemas & queries  
+🔹 Integrate third-party services & APIs  
+🔹 Deploy & maintain production applications  
 
 ---
 
@@ -56,30 +65,11 @@
 
 ---
 
-## 🔥 MERN Stack (Animated Icons)
+## 🔥 MERN Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 </p>
-
----
-
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a8b01a4-5b2f-4a78-8a5c-2a0bfc08bb28.gif" width="300">
-</p>
-
-
-
----
-
-## ✨ What I Build
-
-🚀 Responsive Web Apps  
-📊 Modern Dashboards  
-🔗 REST APIs  
-🧩 Full-Stack Applications  
-🎨 Animated & Interactive UI  
 
 ---
 
@@ -98,11 +88,11 @@
 
 ## 🧠 Fun Fact
 
-> I love turning **complex ideas into beautiful, smooth user experiences** ✨
+> I enjoy architecting **full-stack systems** while crafting **beautiful, smooth user experiences** ✨
 
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=150&section=footer&animation=fadeIn"/>
 </p>
